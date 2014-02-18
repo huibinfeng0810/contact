@@ -1,0 +1,6 @@
+include ':actionbarsherlock'
+include ':android-support'
+include ':im'
+include ':roboguice-sherlock'
+include ':slidingmenu'
+include ':viewpagerIndicator'
